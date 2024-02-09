@@ -1,0 +1,16 @@
+name: paleoproj
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - scipy
+  - netcdf4
+  - scikit-learn
+  - jupyter
+  - xarray
+  - intake-esm
+  - nc-time-axis
+  - cartopy
+  - xesmf
+  - xmip
+prefix: /data/keeling/a/mailes2/miniconda3/envs/paleoproj
